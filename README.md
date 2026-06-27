@@ -21,7 +21,7 @@ Outside of internships and startups, I make **indie games**, **pixel art**, and 
 
 ## Featured Projects
 
-### [RouteRooster](https://route-rooster-web.vercel.app)
+### [RouteRooster](https://routerooster.com)
 *Full-stack scheduling SaaS · Next.js, Supabase, Twilio, Stripe, Google Maps*
 
 Route-smart CRM for mobile service operators—zip-aware booking, automated client SMS, subscription billing, and geospatial slot optimization to minimize drive time between jobs.
